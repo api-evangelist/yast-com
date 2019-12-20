@@ -1,0 +1,76 @@
+{
+    "name": "Yast.com",
+    "description": "Easy time tracking to increase productivity, billing rate and staff performance. Features: Shared projects, 1-click timers, mobile apps and detailed reporting.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/975-yast-com.jpg",
+    "tags": [
+        "have api",
+        "projects"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/yast-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Yast.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/975-yast-com.jpg",
+            "humanURL": "http:\/\/www.yast.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/yast-com-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.yast.com\/1.0\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.yast.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.yast.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/yast"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/yast"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.yast.com\/wiki\/index.php\/Main_Page"
+        },
+        {
+            "type": "Email",
+            "url": "yast@yast.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@yast.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/yast"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Yastdotcom"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.yast.com"
+        }
+    ]
+}
